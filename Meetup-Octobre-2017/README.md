@@ -5,7 +5,7 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Montpelli
 ## Retour sur la conférence France is AI
 
 Dans cette présentation, je ferai un retour sur l'événement France is AI, qui a eu lieu début octobre à Paris. 
-France is AI (http://franceisai.com/)est une association qui a pour objectif de regrouper et d'accompagner les principaux acteurs de l'écosystème AI en France.
+France is AI (http://franceisai.com/) est une association qui a pour objectif de regrouper et d'accompagner les principaux acteurs de l'écosystème AI en France.
 
 Lors de cette conférence annuelle on a découvert les différentes avancées en matière d'intelligence artificielle
 qui sont en plein essor dans les laboratoires de recherche et les entreprises françaises.
