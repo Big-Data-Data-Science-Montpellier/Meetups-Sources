@@ -5,14 +5,14 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Montpelli
 ## Retour sur la conférence France is AI
 
 Dans cette présentation, je ferai un retour sur l'événement France is AI, qui a eu lieu début octobre à Paris. 
-France is AI (http://franceisai.com/)est une association qui a pour objectif de regrouper et d'accompagner les principaux acteurs de l'écosystème AI en France.
+France is AI (http://franceisai.com/) est une association qui a pour objectif de regrouper et d'accompagner les principaux acteurs de l'écosystème AI en France.
 
 Lors de cette conférence annuelle on a découvert les différentes avancées en matière d'intelligence artificielle
 qui sont en plein essor dans les laboratoires de recherche et les entreprises françaises.
 On a également discuté avec les communautés de Data-Science de toute la France 
 sur comment booster les initiatives liées à l'intelligence artificielle dans toutes les villes du pays, y compris Montpellier!
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Octobre-2017/FranceIsAiFeedBack.pdf)
  
 **Speaker :** [Anastasia Lieva](https://twitter.com/lievAnastazia)
 
