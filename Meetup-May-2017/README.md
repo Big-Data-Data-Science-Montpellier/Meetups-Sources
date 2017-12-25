@@ -10,8 +10,6 @@ What does it do well? What problems does it solve?
 
 Who uses it?
 
- * Slides : [PDF]()
-
 **Speaker :** [Arvydas Jonusonis](https://twitter.com/arvydasj)
 
 > Data Analytics Developer at Teads ( http://www.teads.tv )
@@ -41,7 +39,7 @@ Attendees will benefit from some experience running production databases, but it
 
 
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-May-2017/Using%20monitoring%20to%20understand%20Cassandra.pdf)
  * Vidéo : 
  
 **Speaker :** [Alain RODRIGUEZ](https://twitter.com/arodream)
