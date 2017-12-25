@@ -44,7 +44,7 @@ Attendees will benefit from some experience running production databases, but it
  * Slides : [PDF]()
  * Vidéo : 
  
-**Speaker :** [Alain RODRIGUEZ](https://twitter.com/tgrall)
+**Speaker :** [Alain RODRIGUEZ](https://twitter.com/arodream)
 
 > Alain has been working with Apache Cassandra since version 0.8. He was the first Engineer at http://teads.tv which had grown to 400+ employees by the time he left.
 During his time at Teads Alain managed and scaled Cassandra clusters across multiple AWS Regions. His experience with Cassandra from the early days has included upgrading hardware, growing capacity, upgrading, and tuning all the time maintaining Availability. He also evolved data models to take advantage of the latest features and performance as Cassandra improved.
