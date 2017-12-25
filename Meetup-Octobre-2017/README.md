@@ -12,7 +12,7 @@ qui sont en plein essor dans les laboratoires de recherche et les entreprises fr
 On a également discuté avec les communautés de Data-Science de toute la France 
 sur comment booster les initiatives liées à l'intelligence artificielle dans toutes les villes du pays, y compris Montpellier!
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Octobre-2017/FranceIsAiFeedBack.pdf)
  
 **Speaker :** [Anastasia Lieva](https://twitter.com/lievAnastazia)
 
