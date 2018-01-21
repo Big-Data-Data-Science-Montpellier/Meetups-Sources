@@ -1,4 +1,4 @@
-# BPremier meet-up de 2017
+# Premier meet-up de 2017
 
 Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Montpellier/events/236416012/) (Janvier 2017)
 
