@@ -6,7 +6,7 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Montpelli
 
 La Loi de Benford. La loi de Benford indique que la fréquence d’apparition du premier chiffre significatif d’un nombre répond à une distribution prédéterminée. Après une explication de cette loi, on va voir les applications de la loi pour détecter les fraudes financières.
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-April-2017/BigDataandMachineLearningMicrosoftAzure.pdf)
 
 **Speaker :** Lauren Schroeder
 
