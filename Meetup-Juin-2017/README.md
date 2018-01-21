@@ -40,7 +40,7 @@ Flink est utilisé en production par de nombreuses entreprises: Bouygues Telecom
 
 
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Juin-2017/StreamingProcessingWithFlink.pdf)
  * Vidéo : 
  
 **Speaker :** [Tugdual Grall](https://twitter.com/tgrall)
