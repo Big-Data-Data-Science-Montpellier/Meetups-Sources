@@ -10,7 +10,7 @@ Keras is a high-level API which enables fast implementations of neural networks 
 
 This talk will show you how DNNs process data and perform common Deep Learning tasks, followed by a demo on how to easily implement DNNs with Keras. Some conceptions such as feature representations and matrix operations might help to understand what happens inside DNNs.
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Juin-2017/deep_learning_with_keras.pdf)
 
 **Speaker :** [Jie He](https://twitter.com/JieHe8)
 
