@@ -21,7 +21,7 @@ Mots clés: Web Semantique, ETL, Python, Virtuoso, RDF, JsonLD
 Les sources de données en génomique végétale sont multiples, réparties et hétérogènes, et essentiellement accessibles par le Web. La possibilité pour les chercheurs de localiser, récupérer, intégrer et analyser, rapidement et régulièrement, l’information pertinente dans cette masse de données, reste un problème critique et important dans le domaine de la génomique. Pour résoudre cette question au niveau du développement des systèmes d’information, il est nécessaire de dépasser différents niveaux d’hétérogénéité. Les technologies du Web Sémantique, telles que le Resource Description Framework (RDF), RDF Schema (RDFS), Web Ontology Language (OWL) et SPARQL Query Language (SPARQL) offrent des solutions prometteuses à cette problématique de l’intégration des données.
 
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-January-2017/SemanticWeb.pdf)
 
 **Speaker :** Nordine El Hassouni
 
