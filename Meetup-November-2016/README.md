@@ -8,7 +8,7 @@ Mots clés: Data Viz, Big Data, Données Geoloc, Real Time
 
 Au travers d'un exemple réel, je vous parlerai des problématiques rencontrées par notre équipe quand nous avons voulu créer des compteurs d'activités par ville avec des sources de donnée ayant des composantes géographiques au format hétérogène.
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-November-2016/harmonisation-geo.pdf)
 
 **Speaker :** [Franck Ernewein](https://twitter.com/franckernewein)
 
