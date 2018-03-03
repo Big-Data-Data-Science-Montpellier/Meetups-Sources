@@ -27,6 +27,6 @@ Durant ce retour d'expérience, nous introduirons les grands principes de ce dis
 
  * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-January-2018/DDD%26EventSourcing_GDPR%20static.pdf)
 
-**Speaker :** [Jérôme Avoustin] (https://twitter.com/JeromeAvoustin)
+**Speaker :** [Jérôme Avoustin](https://twitter.com/JeromeAvoustin)
 
 > Software craftsman, fan d'eXtreme Programming, de DDD et de rugby. Héron touche à tout chez Saagie, le seul à préférer piocher la data plutôt dans la mer que dans les lacs.
