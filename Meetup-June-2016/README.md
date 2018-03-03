@@ -15,7 +15,7 @@ Les données sont au coeur de nos applications, et sont créées de façon conti
 On traite la modélisation et analyse d'un algorithme d'achat d'inventaire publicitaire en ligne en ayant comme objectif optimiser un indicateur de performance (clicks, ventes, visites, ...). Notre approche donne un cadre formel permettant l'analyse du prix des algorithmes a performances garanties. Le lien entre cet approche analytique et des approches type machine learning sera aussi discuté.
 
 
- * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2016/presentation_2.pdf)
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2016/optimisationAndPricingRTB.pdf)
  
 **Speaker :** [Joaquin Fernandez-Tapia](https://twitter.com/joaqft)
 
