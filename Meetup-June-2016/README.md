@@ -5,7 +5,7 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Science-M
 ##  Machine learning pour Big Data: prédiction de clicks sur une publicité.
 
 Démonstration d'un exemple d'utilisation de Machine Learning pour déterminer la probabilité de click sur une publicité. Présentation d'un processus complet : pré-traitement, apprentissage et visualisation des résultats en utilisant la librairie MLlib de Spark.
- * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Juin-2017/deep_learning_with_keras.pdf)
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2016/machineLearningSpark.pdf)
 
 **Speaker :** [Julien Lafont](https://twitter.com/julien_lafont) & [Anastasia Lieva](https://twitter.com/lievAnastazia)
 
@@ -15,8 +15,8 @@ Les données sont au coeur de nos applications, et sont créées de façon conti
 On traite la modélisation et analyse d'un algorithme d'achat d'inventaire publicitaire en ligne en ayant comme objectif optimiser un indicateur de performance (clicks, ventes, visites, ...). Notre approche donne un cadre formel permettant l'analyse du prix des algorithmes a performances garanties. Le lien entre cet approche analytique et des approches type machine learning sera aussi discuté.
 
 
- * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-Juin-2017/StreamingProcessingWithFlink.pdf)
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2016/presentation_2.pdf)
  
-**Speaker :** [Joaquin Fernandez-Tapia](https://twitter.com/tgrall)
+**Speaker :** [Joaquin Fernandez-Tapia](https://twitter.com/joaqft)
 
 >  Joaquin Fernandez-Tapia est CTO à The Programmatique Company, start-up dédié à la gestion des investissements média cross-canal pour les annonceurs.
