@@ -8,7 +8,8 @@ Mots clés: data-viz, d3js, java-script
 
 Une introduction à la visualisation des données. A travers une démonstration de la librairie d3.js, Sadri va montrer l'utilité et le potentiel de visualisation des données.
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/helloSadri/Meetups-Sources/blob/master/Meetup-January-2017/dataViz31.pdf)
+ * Complément au PDF (source D3js de la démo) : [zip](https://github.com/helloSadri/Meetups-Sources/blob/master/Meetup-January-2017/barChart.zip)
 
 **Speaker :** [Sadri Gora](https://twitter.com/HelloSadri)
 
