@@ -30,7 +30,7 @@ Au travers d’un retour d’expérience sur le Hackaviz 2018 organisé par l’
 
 Et ensuite, comment passer à l’action ? Edith vous partagera des ressources pour monter en compétence et quelques astuces pour expérimenter et démarrer petit dès ce soir !
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-May-2018/%5BMeetup%20Dataviz%20Montpellier%2029-05-18%5D%20La%20Dataviz%20en%20action.pdf)
 
 **Speaker :** [Edith Maulandi](https://twitter.com/edithmaulandi)
 
