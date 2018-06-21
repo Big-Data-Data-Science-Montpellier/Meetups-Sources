@@ -16,7 +16,7 @@ Mais connaissez-vous les clés d’une représentation efficace ? Avez-vous les 
 
 A travers une approche théorique et en s’appuyant sur les travaux remarquables de Jacques Bertin et Edward Tufte, avec néanmoins quelques exemples et contre-exemples, Alexia Audevart vous initiera au monde magique de la data visualisation.
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-May-2018/Les_cles_de_la_data_visualisation2.pdf)
 
 **Speaker :** [Alexia Audevart](https://twitter.com/aaudevart) 
 
