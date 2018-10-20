@@ -8,7 +8,7 @@ Julien Dollon présentera un talk "Hypergrowth: Comment scaler votre système d'
 
 "A travers plusieurs histoires vécues chez Oracle Cloud (mais aussi chez d'autres, comme AWS, Microsoft...), nous aborderons la thématique suivante : Comment Scaler un système (et accueillir des millions d’utilisateurs). On parlera pas mal d’architecture, et de systèmes distribués, de bonnes pratiques…"
 
- * Slides : [PDF]()
+ * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-October-2018/HypergrowthPresentation.pdf)
  * Vidéo : 
  
 **Speaker :** [Jullien Dollon](https://twitter.com/JulienDollon)
