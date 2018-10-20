@@ -10,6 +10,7 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Science-M
 À travers son témoignage atypique, Claire Stride présentera certaines spécificités du cerveau : bases de la neuroscience, monde merveilleux de la neurodiversité et de l'hypersensibilité...et ouverture sur l'intelligence artificielle, outil d'exception pour aider le cerveau humain parfois considéré defayant ou dysfonctionnement.
 
  * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2018/AI%20for%20Good.pptx.pdf)
+ * Videos : [Youtube](https://www.youtube.com/watch?v=jzPHrmzLFhE&index=4&list=PLmPKd8IshlDRsR7amk5ox2TojotNqdMro&t=0s)
 
 **Speaker :** [Claire Stride](https://twitter.com/stride_claire) 
 
@@ -20,6 +21,7 @@ Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Big-Data-Science-M
 Dans le cadre de son intervention, Gérard Dray présentera quelques travaux de R&D récents dans le domaine des interfaces cerveau machine et neurofeedback appliqués à la santé. Dans une première partie, il présentera les dispositifs d’acquisition, les méthodes de traitements du signal et d’apprentissage artificiel. La seconde partie de son intervention lui permettra d’exposer plusieurs projets d’application.
 
  * Slides : [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Meetups-Sources/blob/master/Meetup-June-2018/G_Dray_Talk_2018_06_19.pdf)
+ * Videos : [Youtube](https://www.youtube.com/watch?v=-BRZU9jfmW4&index=3&list=PLmPKd8IshlDRsR7amk5ox2TojotNqdMro&t=0s)
 
 **Speaker :** [Gerard Dray](https://twitter.com/GerardDray)
 
